@@ -1,3 +1,7 @@
+
+https://user-images.githubusercontent.com/55450530/137633160-ab649e38-cc02-404b-b3cf-5aa5d64cc6d2.mp4
+
+
 <h1 align="center">Hi 👋, I'm Thu</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
@@ -9,7 +13,7 @@
 
 - 🌱 I’m currently learning **Information Technology**
 
-- 📫 How to reach me **thupvt10a2@gmail.com**
+- 📫 How to reach me **thunus93@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
